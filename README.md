@@ -53,13 +53,6 @@ python blackjack.py
 
 ---
 
-## 🎯 Future Improvements
-
-* Add betting system 💰
-* GUI using Tkinter 🎮
-* Multiplayer support 👥
-
----
 
 ## 👤 Author
 
